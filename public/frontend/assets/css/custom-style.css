@@ -25,7 +25,7 @@ a:hover{text-decoration:none; -webkit-transition:all .3s ease 0s; -moz-transitio
 a:focus,a:hover{border:none;text-decoration:none}
 button:focus{outline:0px dotted;}
 h1,h2,h3,h4,h5,h6{font-family: 'Roboto', sans-serif; color:#000;}
-p{font-family: 'Roboto', sans-serif; color:#fff !important;}
+p{font-family: 'Roboto', sans-serif; }
 
 
 header{position: fixed; width: 100%; z-index: 99;}
