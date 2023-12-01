@@ -24,7 +24,7 @@ a{text-decoration:none; -webkit-transition:all .3s ease 0s; -moz-transition:all 
 a:hover{text-decoration:none; -webkit-transition:all .3s ease 0s; -moz-transition:all .3s ease 0s; -o-transition:all .3s ease 0s; transition:all .3s ease 0s; cursor:pointer}
 a:focus,a:hover{border:none;text-decoration:none}
 button:focus{outline:0px dotted;}
-h1,h2,h3,h4,h5,h6{font-family: 'Roboto', sans-serif; color:#000;}
+h1,h2,h3,h4,h5,h6{font-family: 'Roboto', sans-serif; color:#000; background: #000;}
 p{font-family: 'Roboto', sans-serif; }
 
 
