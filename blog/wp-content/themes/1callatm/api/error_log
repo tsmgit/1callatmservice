@@ -1,0 +1,40 @@
+[19-Oct-2023 06:24:58 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:26:13 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:27:51 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:28:28 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:28:52 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:28:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_the_excerpt" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 22
+[19-Oct-2023 06:29:29 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:29:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_the_excerpt" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 22
+[19-Oct-2023 06:30:26 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:30:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_the_excerpt" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 28
+[19-Oct-2023 06:31:10 UTC] PHP Deprecated:  File wp-db.php is <strong>deprecated</strong> since version 6.1.0! Use wp-includes/class-wpdb.php instead. in /home3/callatmser/public_html/blog/wp-includes/functions.php on line 5643
+[19-Oct-2023 06:31:10 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:31:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_the_excerpt" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 28
+[19-Oct-2023 06:31:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Query" not found in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:32:21 UTC] PHP Deprecated:  File wp-db.php is <strong>deprecated</strong> since version 6.1.0! Use wp-includes/class-wpdb.php instead. in /home3/callatmser/public_html/blog/wp-includes/functions.php on line 5643
+[19-Oct-2023 06:32:21 UTC] PHP Warning:  Undefined array key "user_id" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 11
+[19-Oct-2023 06:32:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_the_excerpt" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 28
+[19-Oct-2023 06:32:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_the_excerpt" in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/callatmser/public_html/blog/wp-content/themes/1callatm/api/blog.php on line 26
+[19-Oct-2023 06:33:43 UTC] PHP Deprecated:  File wp-db.php is <strong>deprecated</strong> since version 6.1.0! Use wp-includes/class-wpdb.php instead. in /home3/callatmser/public_html/blog/wp-includes/functions.php on line 5643
